@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Scienticfic-Calculator\Scienticfic-Calculator\bin\Debug\Scienticfic-Calculator.exe.config
+C:\Users\DELL\source\repos\Scienticfic-Calculator\Scienticfic-Calculator\bin\Debug\Scienticfic-Calculator.exe
+C:\Users\DELL\source\repos\Scienticfic-Calculator\Scienticfic-Calculator\bin\Debug\Scienticfic-Calculator.pdb
+C:\Users\DELL\source\repos\Scienticfic-Calculator\Scienticfic-Calculator\obj\Debug\Scienticfic-Calculator.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Scienticfic-Calculator\Scienticfic-Calculator\obj\Debug\Scienticfic_Calculator.Properties.Resources.resources
+C:\Users\DELL\source\repos\Scienticfic-Calculator\Scienticfic-Calculator\obj\Debug\Scienticfic-Calculator.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Scienticfic-Calculator\Scienticfic-Calculator\obj\Debug\Scienticfic-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Scienticfic-Calculator\Scienticfic-Calculator\obj\Debug\Scienticfic-Calculator.exe
+C:\Users\DELL\source\repos\Scienticfic-Calculator\Scienticfic-Calculator\obj\Debug\Scienticfic-Calculator.pdb
+C:\Users\DELL\source\repos\Scienticfic-Calculator\Scienticfic-Calculator\obj\Debug\Scienticfic_Calculator.Calculator.resources
